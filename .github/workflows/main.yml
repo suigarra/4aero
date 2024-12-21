@@ -1,1 +1,7 @@
 name: 4aero
+
+on:
+  push:
+    branches: [master]
+  pull_request:
+    branches: [master]
