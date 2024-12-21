@@ -2,3 +2,6 @@
 THIS IS A PERSONAL PROJECT, IF THE CREATOR OF SKEUOCORD WANTS THIS TO BE TAKEN DOWN PLEASE CONTACT ME AT DISCORD, USER: suigarra.
 
 this requires vencord or betterdiscord.
+
+ALL CREDITS TO:
+https://github.com/Marda33/SkeuoCord
