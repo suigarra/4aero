@@ -1,2 +1,2 @@
-# 4aero | Discord theme
+# bean battles | Discord theme
 THIS IS A PERSONAL PROJECT
