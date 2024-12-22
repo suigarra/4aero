@@ -1,0 +1,24 @@
+/**
+* @name beans
+* @version 0.1
+* @author suigarra
+* @description made by suigarra
+*/
+
+@import url(https://vsthemes.org/uploads/generator/client/BasicBackground.css);
+:root {
+    --transparencycolor: 0,0,0;
+    --transparencyalpha: 0.05;
+    --messagetransparency: 0.05;
+    --guildchanneltransparency: 0.05;
+    --memberlistransparency: 0;
+    --accentcolor: 188,100,100;
+    --background: url("https://suigarra.github.io/beanbattletheme/beanwallpaper.jpg");
+    --backdrop: rgba(0,0,0,0);
+    --backgroundblur: 4px;
+    --popoutblur: 4px;
+    --backdropblur: 0px;
+    --backgroundsize: cover;
+    --popoutsize: cover;
+    --backdropsize: cover;
+}
